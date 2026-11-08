@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1794151388 source:/home/acherontas/codeblocks/4_range_with_pos/main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+
